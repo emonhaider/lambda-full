@@ -1,0 +1,6 @@
+{
+  "applicationEnvironment": "dev",
+  "gitHubApi": {
+    "baseUrl": "https://api.github.com/"
+  }
+}
