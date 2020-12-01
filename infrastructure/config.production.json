@@ -1,0 +1,6 @@
+{
+  "applicationEnvironment": "production",
+  "gitHubApi": {
+    "baseUrl": "https://api.github.com/"
+  }
+}

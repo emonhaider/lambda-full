@@ -1,0 +1,6 @@
+{
+  "applicationEnvironment": "uat",
+  "gitHubApi": {
+    "baseUrl": "https://api.github.com/"
+  }
+}
